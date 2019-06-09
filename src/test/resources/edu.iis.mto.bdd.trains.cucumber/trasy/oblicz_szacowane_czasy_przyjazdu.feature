@@ -17,6 +17,6 @@ Szablon scenariusza: Szacowanie czasu przyjazdu
 		Wtedy powinienem uzyskać następujący szacowany czas przyjazdu: <arrivalTime>
 		
 Przykłady:
-		| start    | end     | departureTime | line      | arrivalTime |
-		| Epping   | Central | 8:13          | Epping    | 8:51        |		
+		| start    | end     | departureTime | line      | arrivalTime |		
 		| Epping   | Central | 8:03          | Northern  | 8:48        |
+		| Epping   | Central | 8:13          | Epping    | 8:51        |		
